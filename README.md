@@ -2,14 +2,6 @@
 
 This is a simple and elegant landing page for a car renting app. It is designed to attract users and provide them with essential information about the app, including quick links, car details, social media, and a newsletter subscription.
 
-## Features
-
-- **Responsive Design**: The landing page is fully responsive and works seamlessly on all devices.
-- **Newsletter Subscription**: Users can subscribe to the newsletter to receive exclusive deals and updates.
-- **Quick Links**: Easy navigation to important sections like About Us, Who We Are, and Contact Us.
-- **Car Information**: Detailed information about how the app works, picking a car, and FAQs.
-- **Social Media Links**: Connect with the app on Instagram, Facebook, and Twitter.
-
 ## Technologies Used
 
 - **React**: For building the user interface.
